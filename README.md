@@ -1,5 +1,5 @@
 # CopyConsole
-A secure and minimalistic Windows Forms app for managing sensitive credentials like usernames and passwords. Built with VB.NET, this app stores your secrets in an encrypted file with a private structure and smart UI for convenience and control.
+A secure and lightweight Windows Forms application built with VB.NET, designed for quick copying of folders, scripts, and text to the clipboard. It also offers efficient management of sensitive credentials such as usernames and passwords, securely storing them in an encrypted file using a custom structure.
 
 ---
 ## 🧑‍💻 Usage
